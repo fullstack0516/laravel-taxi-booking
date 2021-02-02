@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/buttons";
+@import '~bootstrap/scss/tables';
+@import "~bootstrap/scss/badge";
+@import "~bootstrap/scss/card";
+@import "~bootstrap/scss/modal";
+
+@import "hireo/bootstrap-grid.css";
+@import "hireo/icons.css";
+@import "hireo/style.css";
+@import "hireo/colors/blue.css";
